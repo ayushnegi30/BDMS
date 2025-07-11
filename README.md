@@ -32,3 +32,12 @@
 - **Backend**: PHP
 - **Database**: MySQL
 - **Server**: XAMPP (Apache + MySQL)
+## ⚙️ Setup Instructions (Localhost)
+
+1. **Install XAMPP**
+   - [Download XAMPP](https://www.apachefriends.org/index.html)
+   - Start Apache and MySQL services.
+
+2. **Move Project to XAMPP Directory**
+   ```bash
+   Move 'readers-reach/' folder to C:/xampp/htdocs/
